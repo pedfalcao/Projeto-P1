@@ -1,0 +1,283 @@
+19/10/2018 13:11 - adm se logou
+19/10/2018 13:11 - adm cadastrou pedro
+19/10/2018 13:11 - adm encerrou o programa
+19/10/2018 13:12 - pedro se logou
+19/10/2018 13:13 - pedro buscou o ISBN 8578270886
+19/10/2018 13:13 - pedro ordenou os livros
+19/10/2018 13:13 - pedro encerrou o programa
+19/10/2018 13:14 - estagiario se logou
+19/10/2018 13:15 - estagiario cadastrou vitoria
+19/10/2018 13:15 - estagiario encerrou o programa
+19/10/2018 13:23 - adm se logou
+19/10/2018 13:23 - adm mudou a hierarquia de pedro
+19/10/2018 13:23 - adm se logou
+19/10/2018 13:23 - adm mudou a hierarquia de vitoria
+19/10/2018 13:24 - adm encerrou o programa
+25/10/2018 20:08 - adm se logou
+25/10/2018 20:11 - adm buscou o ISBN 8574063169
+25/10/2018 20:23 - adm se logou
+25/10/2018 20:24 - adm buscou o ISBN 8574063169
+25/10/2018 20:27 - adm encerrou o programa
+25/10/2018 20:29 - adm se logou
+25/10/2018 20:29 - adm mudou a hierarquia de vitoria
+25/10/2018 20:29 - adm mudou a hierarquia de pedro
+25/10/2018 20:29 - adm encerrou o programa
+26/10/2018 12:40 - adm se logou
+26/10/2018 12:40 - adm buscou o ISBN 1
+26/10/2018 12:40 - adm cadastrou ff
+26/10/2018 12:40 - adm encerrou o programa
+26/10/2018 12:46 - ff se logou
+26/10/2018 12:46 - ff ordenou os livros
+26/10/2018 12:46 - ff encerrou o programa
+26/10/2018 12:46 - adm se logou
+26/10/2018 12:46 - adm mudou a hierarquia de ff
+26/10/2018 12:46 - adm encerrou o programa
+26/10/2018 12:46 - ff se logou
+26/10/2018 12:47 - ff mudou a hierarquia de ff
+26/10/2018 12:47 - ff encerrou o programa
+26/10/2018 13:04 - adm se logou
+26/10/2018 13:04 - vitoria se logou
+26/10/2018 13:04 - vitoria buscou o ISBN 8573265205
+26/10/2018 13:05 - vitoria encerrou o programa
+27/10/2018 15:48 - estagiario se logou
+27/10/2018 15:48 - estagiario adicionou o livro de ISBN a
+27/10/2018 15:48 - estagiario encerrou o programa
+27/10/2018 15:51 - estagiario se logou
+27/10/2018 15:51 - estagiario adicionou o livro de ISBN a
+27/10/2018 15:51 - estagiario encerrou o programa
+27/10/2018 19:08 - adm se logou
+27/10/2018 19:08 - adm buscou o ISBN 8574062197
+27/10/2018 19:09 - adm cadastrou pedro
+27/10/2018 19:09 - adm cadastrou daniel
+27/10/2018 19:09 - adm cadastrou gabriel
+27/10/2018 19:09 - adm encerrou o programa
+27/10/2018 19:10 - estagiario se logou
+27/10/2018 19:13 - estagiario adicionou o livro de ISBN 8574060321
+27/10/2018 19:13 - estagiario encerrou o programa
+27/10/2018 19:14 - pedro se logou
+27/10/2018 19:14 - pedro buscou o ISBN 8574060321
+27/10/2018 19:15 - pedro ordenou os livros
+27/10/2018 19:15 - pedro encerrou o programa
+27/10/2018 19:15 - adm se logou
+27/10/2018 19:16 - adm buscou o ISBN 8574060321
+27/10/2018 19:16 - adm mudou toda a especificação do livro de anterior isbn 8574060321 e atual isbn a
+27/10/2018 19:16 - adm buscou o ISBN a
+27/10/2018 19:17 - adm mudou toda a especificação do livro de anterior isbn a e atual isbn 8574060321
+27/10/2018 19:17 - adm buscou o ISBN 8574060321
+27/10/2018 19:17 - adm mudou o autor de Daniel Defoé para Daniel Defoe
+27/10/2018 19:18 - adm encerrou o programa
+28/10/2018 16:37 - adm se logou
+28/10/2018 16:37 - adm cadastrou ff
+28/10/2018 16:37 - adm removeu ff
+28/10/2018 16:38 - adm buscou o ISBN 8578274997
+28/10/2018 16:38 - adm mudou o isbn de 8578274997 para a
+28/10/2018 16:38 - adm buscou o ISBN 8578274997
+28/10/2018 16:38 - adm buscou o ISBN a
+28/10/2018 16:38 - adm mudou o nome do livro de As Bruxas para a
+28/10/2018 16:38 - adm buscou o ISBN a
+28/10/2018 16:38 - adm mudou o autor de Roald Dahl para a
+28/10/2018 16:39 - adm buscou o ISBN a
+28/10/2018 16:39 - adm mudou a editora de WMF Martins Fontes para a
+28/10/2018 16:39 - adm buscou o ISBN a
+28/10/2018 16:39 - adm mudou o número de páginas de 240 paginas para a
+28/10/2018 16:39 - adm buscou o ISBN a
+28/10/2018 16:39 - adm mudou a edição de 2012para a
+28/10/2018 16:39 - adm buscou o ISBN a
+28/10/2018 16:39 - adm mudou o tipo de C para A
+28/10/2018 16:39 - adm buscou o ISBN a
+28/10/2018 16:41 - adm mudou toda a especificação do livro de anterior isbn a e atual isbn 8578274997
+28/10/2018 16:42 - adm adicionou o livro de ISBN 8578274997
+28/10/2018 16:49 - adm se logou
+28/10/2018 16:50 - adm tentou adicionar o ISBN 8578274997
+28/10/2018 16:52 - adm se logou
+28/10/2018 16:52 - adm adicionou o livro de ISBN a
+28/10/2018 16:53 - adm tentou adicionar o ISBN a
+28/10/2018 16:55 - adm se logou
+28/10/2018 16:56 - adm se logou
+28/10/2018 16:56 - adm se logou
+28/10/2018 16:58 - adm se logou
+28/10/2018 16:59 - adm se logou
+28/10/2018 17:00 - adm se logou
+28/10/2018 17:02 - adm se logou
+28/10/2018 17:02 - adm removeu o livro de ISBN a
+28/10/2018 17:02 - adm encerrou o programa
+28/10/2018 17:03 - adm se logou
+28/10/2018 17:03 - adm cadastrou vitoria
+28/10/2018 17:03 - adm mudou a hierarquia de vitoria
+28/10/2018 17:03 - adm encerrou o programa
+28/10/2018 17:03 - vitoria se logou
+28/10/2018 17:04 - vitoria mudou a hierarquia de vitoria
+28/10/2018 17:04 - vitoria encerrou o programa
+29/10/2018 09:17 - pedro se logou
+29/10/2018 09:19 - pedro se logou
+29/10/2018 09:20 - adm se logou
+29/10/2018 09:21 - adm se logou
+29/10/2018 09:21 - adm cadastrou soraya
+29/10/2018 09:21 - adm encerrou o programa
+29/10/2018 09:21 - soraya se logou
+29/10/2018 09:21 - soraya ordenou os livros
+29/10/2018 09:23 - soraya se logou
+29/10/2018 09:23 - soraya ordenou os livros
+29/10/2018 09:24 - soraya se logou
+29/10/2018 09:24 - soraya ordenou os livros
+29/10/2018 09:25 - soraya se logou
+29/10/2018 09:25 - soraya ordenou os livros
+29/10/2018 09:26 - soraya se logou
+29/10/2018 09:26 - soraya ordenou os livros
+29/10/2018 09:27 - soraya se logou
+29/10/2018 09:27 - soraya ordenou os livros
+29/10/2018 09:27 - soraya se logou
+29/10/2018 09:27 - soraya ordenou os livros
+29/10/2018 09:27 - soraya encerrou o programa
+29/10/2018 09:28 - vitoria se logou
+29/10/2018 09:28 - vitoria ordenou os livros
+29/10/2018 09:28 - vitoria encerrou o programa
+29/10/2018 09:47 - adm se logou
+29/10/2018 09:47 - adm se logou
+29/10/2018 09:47 - adm mudou a hierarquia de soraya
+29/10/2018 09:47 - adm encerrou o programa
+29/10/2018 09:49 - adm se logou
+29/10/2018 09:49 - adm mudou a hierarquia de soraya
+29/10/2018 09:49 - adm encerrou o programa
+29/10/2018 09:57 - adm se logou
+29/10/2018 09:57 - adm mudou a hierarquia de pedro
+29/10/2018 09:57 - adm encerrou o programa
+29/10/2018 09:58 - adm se logou
+29/10/2018 09:58 - adm mudou a hierarquia de pedro
+29/10/2018 09:58 - adm encerrou o programa
+29/10/2018 10:00 - adm se logou
+29/10/2018 10:00 - adm mudou a hierarquia de pedro
+29/10/2018 10:00 - adm encerrou o programa
+29/10/2018 10:02 - adm se logou
+29/10/2018 10:02 - adm mudou a hierarquia de pedro
+29/10/2018 10:02 - adm encerrou o programa
+07/11/2018 11:36 - adm se logou
+07/11/2018 11:36 - adm mudou a hierarquia de pedro
+07/11/2018 11:36 - adm encerrou o programa
+07/11/2018 11:56 - estagiario se logou
+07/11/2018 11:56 - estagiario buscou o ISBN 1
+07/11/2018 11:56 - estagiario encerrou o programa
+07/11/2018 11:58 - adm se logou
+07/11/2018 11:58 - adm encerrou o programa
+07/11/2018 12:17 - adm se logou
+07/11/2018 12:17 - adm mudou a hierarquia de pedro
+07/11/2018 12:27 - soraya se logou
+07/11/2018 12:27 - soraya ordenou os livros
+07/11/2018 12:33 - pedro se logou
+07/11/2018 12:34 - pedro se logou
+07/11/2018 12:34 - pedro tentou mudar a hierarquia de 11
+07/11/2018 12:35 - pedro se logou
+07/11/2018 12:35 - pedro mudou a hierarquia de pedro
+07/11/2018 12:35 - pedro encerrou o programa
+07/11/2018 12:36 - adm se logou
+07/11/2018 12:36 - adm mudou a hierarquia de pedro
+07/11/2018 12:36 - adm encerrou o programa
+07/11/2018 12:38 - pedro se logou
+07/11/2018 12:38 - pedro ordenou os livros
+07/11/2018 12:39 - adm se logou
+07/11/2018 12:39 - adm mudou a hierarquia de pedro
+07/11/2018 12:39 - adm encerrou o programa
+07/11/2018 12:39 - pedro se logou
+07/11/2018 12:39 - pedro ordenou os livros
+07/11/2018 12:39 - pedro encerrou o programa
+12/11/2018 12:26 - pedro se logou
+12/11/2018 12:26 - pedro ordenou os livros
+12/11/2018 12:26 - pedro buscou o ISBN 8574061557
+12/11/2018 12:26 - pedro encerrou o programa
+12/11/2018 12:29 - pedro se logou
+12/11/2018 12:29 - pedro buscou o ISBN 1
+12/11/2018 12:30 - pedro encerrou o programa
+12/11/2018 12:31 - pedro se logou
+12/11/2018 12:31 - pedro ordenou os livros
+12/11/2018 12:31 - pedro encerrou o programa
+12/11/2018 12:32 - pedro se logou
+12/11/2018 12:32 - pedro ordenou os livros
+12/11/2018 12:32 - pedro encerrou o programa
+12/11/2018 12:34 - pedro se logou
+12/11/2018 12:34 - pedro ordenou os livros
+12/11/2018 12:34 - pedro encerrou o programa
+12/11/2018 12:35 - pedro se logou
+12/11/2018 12:35 - pedro ordenou os livros
+12/11/2018 12:35 - pedro encerrou o programa
+12/11/2018 12:36 - pedro se logou
+12/11/2018 12:36 - pedro ordenou os livros
+12/11/2018 12:36 - pedro encerrou o programa
+12/11/2018 12:37 - pedro se logou
+12/11/2018 12:37 - pedro ordenou os livros
+12/11/2018 12:37 - pedro encerrou o programa
+14/11/2018 18:13 - pedro se logou
+14/11/2018 18:13 - pedro buscou o ISBN 1
+14/11/2018 18:14 - pedro buscou o ISBN 8574061557
+14/11/2018 18:14 - pedro ordenou os livros
+14/11/2018 18:14 - pedro encerrou o programa
+14/11/2018 18:15 - estagiario se logou
+14/11/2018 18:16 - estagiario cadastrou fernando
+14/11/2018 18:17 - estagiario buscou o ISBN 8574061557
+14/11/2018 18:17 - estagiario mudou o isbn de 8574061557 para 1
+14/11/2018 18:17 - estagiario buscou o ISBN 1
+14/11/2018 18:17 - estagiario mudou o nome do livro de Historias a Brasileira para 1
+14/11/2018 18:17 - estagiario buscou o ISBN 1
+14/11/2018 18:17 - estagiario mudou o autor de Ana Maria Machado para 1
+14/11/2018 18:17 - estagiario buscou o ISBN 1
+14/11/2018 18:17 - estagiario mudou a editora de Companhia das Letrinhas para 1
+14/11/2018 18:17 - estagiario buscou o ISBN 1
+14/11/2018 18:17 - estagiario mudou o número de páginas de 80 paginas para 1
+14/11/2018 18:18 - estagiario buscou o ISBN 1
+14/11/2018 18:18 - estagiario mudou a edição de 2002para 1
+14/11/2018 18:18 - estagiario buscou o ISBN 1
+14/11/2018 18:18 - estagiario mudou o tipo de A para 1
+14/11/2018 18:21 - estagiario buscou o ISBN 1
+14/11/2018 18:22 - estagiario mudou toda a especificação do livro de anterior isbn 1 e atual isbn 8574061557
+14/11/2018 18:22 - estagiario tentou adicionar o ISBN 
+14/11/2018 18:22 - estagiario encerrou o programa
+14/11/2018 18:23 - estagiario se logou
+14/11/2018 18:23 - estagiario buscou o ISBN 8574061557
+14/11/2018 18:23 - estagiario mudou o tipo de A para A
+14/11/2018 18:23 - estagiario encerrou o programa
+14/11/2018 18:24 - adm se logou
+14/11/2018 18:26 - adm cadastrou a
+14/11/2018 18:26 - adm removeu a
+14/11/2018 18:26 - adm buscou o ISBN 1
+14/11/2018 18:27 - adm adicionou o livro de ISBN a
+14/11/2018 18:27 - adm removeu o livro de ISBN a
+14/11/2018 18:28 - adm se logou
+14/11/2018 18:28 - adm mudou a hierarquia de fernando
+14/11/2018 18:28 - adm encerrou o programa
+16/11/2018 14:37 - fernando se logou
+16/11/2018 14:37 - fernando buscou o ISBN a
+16/11/2018 14:37 - fernando encerrou o programa
+21/11/2018 08:56 - pedro se logou
+21/11/2018 08:56 - pedro ordenou os livros
+21/11/2018 08:56 - pedro encerrou o programa
+21/11/2018 08:58 - adm se logou
+21/11/2018 08:58 - adm adicionou o livro de ISBN 1
+21/11/2018 08:58 - adm encerrou o programa
+21/11/2018 08:59 - adm se logou
+21/11/2018 09:00 - adm removeu o livro de ISBN 1
+21/11/2018 09:00 - adm encerrou o programa
+21/11/2018 09:05 - adm se logou
+21/11/2018 09:05 - adm cadastrou ff
+21/11/2018 09:05 - adm encerrou o programa
+21/11/2018 09:05 - ff se logou
+21/11/2018 09:05 - ff buscou o ISBN 8574062197
+21/11/2018 09:06 - ff encerrou o programa
+21/11/2018 09:06 - ff se logou
+21/11/2018 09:06 - ff ordenou os livros
+21/11/2018 09:06 - ff encerrou o programa
+21/11/2018 09:06 - estagiario se logou
+21/11/2018 09:06 - estagiario cadastrou fff
+21/11/2018 09:07 - estagiario buscou o ISBN 8574062197
+21/11/2018 09:07 - estagiario adicionou o livro de ISBN 1
+21/11/2018 09:07 - estagiario encerrou o programa
+21/11/2018 09:07 - adm se logou
+21/11/2018 09:07 - adm cadastrou ffff
+21/11/2018 09:07 - adm removeu ff
+21/11/2018 09:07 - adm removeu fff
+21/11/2018 09:07 - adm removeu ffff
+21/11/2018 09:08 - adm removeu o livro de ISBN 1
+21/11/2018 09:08 - adm mudou a hierarquia de fernando
+21/11/2018 09:08 - adm encerrou o programa
+21/11/2018 12:43 - adm se logou
+21/11/2018 12:43 - adm buscou o ISBN 8578270886
+21/11/2018 12:43 - adm mudou o nome do livro de  O Leao, a Feiticeira e o Guarda-Roupa para O Leao, a Feiticeira e o Guarda-Roupa
+21/11/2018 12:43 - adm encerrou o programa

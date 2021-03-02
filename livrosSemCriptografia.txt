@@ -1,0 +1,144 @@
+O isbn do livro é: 8585466294
+O nome do livro é: Fabulas de Esopo
+O nome do autor é: Esopo
+O nome da editora é: Companhia das Letrinhas
+O número de páginas é: 96 paginas
+O ano da edição é: 1994
+O tipo do livro é: Fábulas, Contos de Fada e Folclore
+
+O isbn do livro é: 8574062197
+O nome do livro é: A Arca de Noe
+O nome do autor é: Vinicius de Moraes
+O nome da editora é: Companhia das Letrinhas
+O número de páginas é: 64 paginas
+O ano da edição é: 2004
+O tipo do livro é: Poesia
+
+O isbn do livro é: 8578270886
+O nome do livro é: O Leao, a Feiticeira e o Guarda-Roupa
+O nome do autor é: C.S. Lewis
+O nome da editora é: WMF Martins Fontes
+O número de páginas é: 184 paginas
+O ano da edição é: 2015
+O tipo do livro é: Romance
+
+O isbn do livro é: 8573265205
+O nome do livro é: O Poder da Natureza
+O nome do autor é: Braulio Tavares
+O nome da editora é: Editora 34
+O número de páginas é: 36 paginas
+O ano da edição é: 2013
+O tipo do livro é: Poesia
+
+O isbn do livro é: 8578275780
+O nome do livro é: Momo (e o Senhor do Tempo) 
+O nome do autor é: Michael Ende
+O nome da editora é: WMF Martins Fontes
+O número de páginas é: 276 paginas
+O ano da edição é: 2012
+O tipo do livro é: Romance
+
+O isbn do livro é: 8574060771
+O nome do livro é: O Ultimo Cavaleiro Andante
+O nome do autor é: Will Eisner
+O nome da editora é: Companhia das Letrinhas
+O número de páginas é: 64 paginas
+O ano da edição é: 2000
+O tipo do livro é: Ilustração
+
+O isbn do livro é: 8533616171 
+O nome do livro é: O Principe Caspian
+O nome do autor é: C.S. Lewis
+O nome da editora é: WMF Martins Fontes
+O número de páginas é: 216 paginas
+O ano da edição é: 2003
+O tipo do livro é: Romance
+
+O isbn do livro é: 8533615469
+O nome do livro é: Jim Knopf e os 13 piratas
+O nome do autor é: Michael Ende
+O nome da editora é: Martins Fontes - Selo Martins
+O número de páginas é: 292 paginas
+O ano da edição é: 2002
+O tipo do livro é: Romance
+
+O isbn do livro é: 8565484572
+O nome do livro é: Lacos
+O nome do autor é: Vitor Cafaggi
+O nome da editora é: Panini Comics
+O número de páginas é: 82 paginas
+O ano da edição é: 2014
+O tipo do livro é: Ilustração
+
+O isbn do livro é: 8572328637
+O nome do livro é: Fabulas de La Fontaine
+O nome do autor é: Jean de La Fontaine
+O nome da editora é: Martin Claret
+O número de páginas é: 262 paginas
+O ano da edição é: 2012
+O tipo do livro é: Fábulas, Contos de Fada e Folclore
+
+O isbn do livro é: 8537809667
+O nome do livro é: O magico de Oz
+O nome do autor é: L. Frank Baum
+O nome da editora é: Zahar
+O número de páginas é: 224 paginas
+O ano da edição é: 2013
+O tipo do livro é: Romance
+
+O isbn do livro é: 854180285
+O nome do livro é: Historias de Bichos
+O nome do autor é: Tolstoi
+O nome da editora é: SM Paradidatico
+O número de páginas é: 48 paginas
+O ano da edição é: 2013
+O tipo do livro é: Contos
+
+O isbn do livro é: 8574060356
+O nome do livro é: 20.000 Leguas Submarinas
+O nome do autor é: Julio Verne
+O nome da editora é: Companhia das Letrinhas
+O número de páginas é: 64 paginas
+O ano da edição é: 1999
+O tipo do livro é: Ilustração
+
+O isbn do livro é: 8585466413
+O nome do livro é: Contos de Andersen
+O nome do autor é: H. C. Andersen
+O nome da editora é: Companhia das Letrinhas
+O número de páginas é: 120 paginas
+O ano da edição é: 1995
+O tipo do livro é: Contos
+
+O isbn do livro é: 8574063169
+O nome do livro é: A Odisseia
+O nome do autor é: Romero
+O nome da editora é: Companhia das Letrinhas
+O número de páginas é: 64 paginas
+O ano da edição é: 2005
+O tipo do livro é: Ilustração
+
+O isbn do livro é: 8574060321
+O nome do livro é: Robinson Crusoe
+O nome do autor é: Daniel Defoe
+O nome da editora é: Companhia das Letrinhas
+O número de páginas é: 64 paginas
+O ano da edição é: 1999
+O tipo do livro é: Ilustração
+
+O isbn do livro é: 8578274997
+O nome do livro é: As Bruxas
+O nome do autor é: Roald Dahl
+O nome da editora é: WMF Martins Fontes
+O número de páginas é: 240 paginas
+O ano da edição é: 2012
+O tipo do livro é: Romance
+
+O isbn do livro é: 8574061557
+O nome do livro é: Historias a Brasileira
+O nome do autor é: Ana Maria Machado
+O nome da editora é: Companhia das Letrinhas
+O número de páginas é: 80 paginas
+O ano da edição é: 2002
+O tipo do livro é: Fábulas, Contos de Fada e Folclore
+
